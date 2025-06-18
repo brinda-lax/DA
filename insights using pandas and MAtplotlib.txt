@@ -1,0 +1,26 @@
+Air Passenger Traffic Analysis (India)
+
+Key Analyses Performed:
+
+1)Computed daily airport footfalls, covering both domestic and international movements.
+
+2)Derived total footfalls by summing domestic and international passenger counts.
+
+3)Identified maximum and minimum footfalls along with their corresponding dates.
+
+4)Calculated the daily average footfalls across the dataset.
+
+5)Summarized the busiest days using top N records with highest5) footfalls.
+
+6)Highlighted the least busy days using bottom N records with lowest footfalls.
+
+7)Analyzed monthly trends in footfall data to observe seasonal patterns.
+
+8)Merged and cleaned two datasets: Daily Stats and City-wise Passenger Data.
+
+9)Computed and analyzed average footfalls by city pairs (origin-destination).
+
+10)Visualized the top 10 city pairs by average passengers traveling to the destination city (PaxToCity2).
+
+All data processing was done using Python (Pandas, Matplotlib), and the results are ready for further visualization in tools like Tableau or Plotly.
+
